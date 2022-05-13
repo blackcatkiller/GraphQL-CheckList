@@ -36,6 +36,6 @@ const client = new ApolloClient({
 npm start
 ```
 
-![image-20220513192342024](C:\Users\blackcatkiller\AppData\Roaming\Typora\typora-user-images\image-20220513192342024.png)
+![image-20220513192342024](https://github.com/blackcatkiller/GraphQL-CheckList/blob/master/readme_img/image-20220513192342024.png?raw=true)
 
 使用远程数据库，对国内用户来说会有明显的延迟，这个问题尚未解决，作者也不清楚如何在promise 的pending状态时加上loading效果，希望能在这里得到解答。
