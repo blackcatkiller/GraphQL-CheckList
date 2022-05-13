@@ -14,7 +14,7 @@ npm install
 
 注册完成后你可以在`src/index.js`中使用你的uri和`x-hasura-admin-secret`
 
-![image-20220513191958651](C:\Users\blackcatkiller\AppData\Roaming\Typora\typora-user-images\image-20220513191958651.png)
+![image-20220513191958651](https://github.com/blackcatkiller/GraphQL-CheckList/blob/master/readme_img/image-20220513191958651.png?raw=true)
 
 `src/index.js`
 
